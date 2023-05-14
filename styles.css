@@ -1,0 +1,108 @@
+.box-principal {
+    background-color: white;
+    width: 300px;
+    height: 500px;
+    border-radius: 30px;
+    position: relative;
+    box-shadow: 2px 6px 6px 0px black;
+}
+body{
+    background-image: url(fondo-instagram-colores-degradados_23-2147821883.avif);
+    margin: 100px;
+    margin-left: 400px;
+}
+#box-principal2{
+    margin: 15px;
+    margin-top: 4px;
+}
+div{
+    border: 1px solid black;
+}
+#Perfil-Post{
+    padding: 1px;
+    margin-bottom: 5px;
+    border: transparent;
+}
+#Image-Post{
+    padding: 130px;
+}
+#Icons-Post{
+    padding: 4px;
+    margin-bottom: -10px;
+    border: transparent;
+}
+#Photo-Perfil{
+    padding: 17px;
+    width: 2px;
+    border-radius: 100%;
+    float: left;
+    background-image: url(Yoka.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-top: 10px;
+}
+#Nombre-principal{
+    margin-top: 15px;
+    margin-left: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#Description-of-perfil{
+    float: left;
+    font-size: 7px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -22px;
+    margin-left: 45px;
+}
+.fa-ellipsis-vertical{
+    float: right;
+    margin-top: -35px;
+}
+#Image-Post{
+    background-image: url(Mipaj.img.jpg);
+    background-size: cover;
+    background-position: center;
+    border: transparent;
+    border-radius: 6%;
+    margin-bottom: 5px;
+}
+#Description-Post{
+    padding: 0px;
+    border: transparent;
+}
+.fa-comment{
+    margin-left: 6px;
+    font-size: 20px;
+}
+.fa-paper-plane{
+    margin-left: 5px;
+    font-size: 20px;
+}
+.fa-heart{
+    font-size: 20px
+}
+.fa-ellipsis{
+    font-size: 20px;
+    margin-left: 42px;
+}
+#Description-principal{
+    font-size: 10px;
+    margin-top: 0px;
+}
+#Comments{
+    font-size: 9px;
+    color: lightgray;
+
+}
+#likes{
+    font-size: 10px;
+    color: darkgrey;
+    margin-bottom: 10px;
+}
+#days-ago{
+    font-size: 7px;
+    color: lightgray;
+}
+.fa-bookmark{
+    margin-left: 97px;
+    font-size: 20px;
+}
